@@ -1,0 +1,2 @@
+Welcome to Git
+First line in file1.txt
